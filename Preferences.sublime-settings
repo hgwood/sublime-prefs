@@ -10,5 +10,7 @@
 	[
 		120
 	],
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"ensure_newline_at_eof_on_save": true,
+	"default_line_ending": "unix"
 }
