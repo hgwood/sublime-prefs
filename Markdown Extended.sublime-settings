@@ -6,7 +6,7 @@
     "draw_centered": true,
     "gutter": false,
     "line_numbers": false,
-    "auto_wrap": true,
     "word_wrap": "True",
-    "wrap_width": 80
+    "wrap_width": 80,
+    "rulers": []
 }
