@@ -1,6 +1,8 @@
 {
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"default_line_ending": "unix",
+	"show_line_endings": true,
+	"show_encoding": true,
 	"ensure_newline_at_eof_on_save": true,
 	"hot_exit": false,
 	"ignored_packages":
